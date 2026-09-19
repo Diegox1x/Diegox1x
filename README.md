@@ -5,7 +5,7 @@
 
 ---
 
-### 🇬🇧 English
+### EN English
 I'm a Software Engineering student building a solid foundation in application development. My current focus is on understanding software logic, object-oriented programming (OOP), and databases.
 
 * **Tech Stack:** Java, SQL, HTML, CSS | Git, GitHub, VS Code, NetBeans.
@@ -16,7 +16,7 @@ I'm a Software Engineering student building a solid foundation in application de
 
 ---
 
-### 🇪🇸 Español
+### ES Español
 Soy estudiante de Ingeniería en Software enfocado en construir bases sólidas en el desarrollo de aplicaciones. Mi objetivo actual es comprender la lógica del software, la POO y las bases de datos.
 
 * **Tecnologías:** Java, SQL, HTML, CSS | Git, GitHub, VS Code, NetBeans.
